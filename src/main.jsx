@@ -1,3 +1,5 @@
+// Renamed from main.ts to main.jsx
+
 import './style.css'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
